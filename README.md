@@ -552,7 +552,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: Create GitHub issues for bug reports
 - **Discussions**: Use GitHub Discussions for questions
 - **Documentation**: Check the docs/ directory
-- **Email**: [Your contact email]
 
 ---
 
